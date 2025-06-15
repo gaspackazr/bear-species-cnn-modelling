@@ -8,9 +8,9 @@ This repository contains the implementation and results for our project for the 
 
 | Name            | Role           | Responsibility                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------|
-| [Member 1 Name] | Data Engineer  | Data collection, standardization, and dataset preparation                        |
-| [Member 2 Name] | Data Scientist | CNN model development, training, and transfer learning using Keras               |
-| [Member 3 Name] | Data Analyst   | Visualizing dataset and model performance, drawing final conclusions             |
+| Iman Shamil   | Data Engineer  | Data collection, standardization, and dataset preparation                        |
+| Azri Anuar    | Data Scientist | CNN model development, training, and transfer learning using Keras               |
+| Syed Akil     | Data Analyst   | Visualizing dataset and model performance, drawing final conclusions             |
 
 ---
 
